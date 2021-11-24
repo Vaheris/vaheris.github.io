@@ -1,4 +1,4 @@
-utopia-theme-default.github.io
+Utopia Blue Theme.
 ==============================
 
-The default CSS theme of http://utopia-game.com
+Blue theme for Utopia CSS.
