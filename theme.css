@@ -129,37 +129,31 @@ button:hover {
     background-color: #1222b7;
 }
 
-/*
+#bOriginal, #bGeneral, #bArmies, #bWar, #bTM, #bCalced, #bResources,
 #bMilitary, #bPopulation, #bSurvey, #bSoS, #bSoM {
-  border: 1px solid;
   -webkit-appearance: none;
-  border-radius: 4px;
-  -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
-  margin: 1px;
-
   font-family: 'Share Tech';
-  font-size: 14px;
+  margin: 0px;
+  font-size: 12px;
   font-weight: normal;
+  background: #2e3259;
+  color: #fff;
   -moz-text-shadow: -1px 1px 2px #1e1a3d, 1px -1px 2px #1e1a3d;
   -webkit-text-shadow: -1px 1px 2px #1e1a3d, 1px -1px 2px #1e1a3d;
   text-shadow: -1px 1px 2px #1e1a3d, 1px -1px 1px #1e1a3d;
-
+  border: 1px solid;
   border-color: #959595;
+
   -moz-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
   -webkit-box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
   box-shadow: 1px -1px 1px 0px #D4CAA8 , -1px 1px 2px #1e1a3d, inset 0px 0px 10px #000;
-
-  background: #2e3259;
-  color: #fff;
 }
 
-
-#bOriginal:hover, #bGeneral:hover, #bArmies:hover, #bWar:hover, #bTM:hover, #bCalced:hover, #bResources:hover,
-#bMilitary:hover, #bPopulation:hover, #bSurvey:hover, #bSoS:hover, #bSoM:hover {
+#bOriginal:hover, #bGeneral:hover, #bArmies:hover, #bWar:hover, #bTM:hover,
+#bCalced:hover, #bResources:hover,#bMilitary:hover, #bPopulation:hover,
+#bSurvey:hover, #bSoS:hover, #bSoM:hover {
     background-color: #1222b7;
 }
-*/
 
 #ircchat {
   top: -2000px;
